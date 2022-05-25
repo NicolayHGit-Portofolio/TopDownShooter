@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10ba9020ed1419343964c08b4c8ef3de, type: 3}
+  m_Name: PlayerAttributes
+  m_EditorClassIdentifier: 
+  holdingWeapon: {fileID: 3588188738283628525, guid: 9225d6e451c1c214bb0c9913feecfbd2, type: 3}
+  health: 100
+  speed: 5
